@@ -1,2 +1,3 @@
 hola como estas esto es una prueba para 
-hacer un error en el merge
+hacer un error en el merge.// ahora agrego esta parte en la 
+linea dentro de la rama adrian para generar un conflicto.
